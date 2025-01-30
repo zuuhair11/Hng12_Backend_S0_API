@@ -57,11 +57,7 @@ http://127.0.0.1:8000/
 
 ## 🌍 Deployment
 The API is live and accessible at:
-🔗 **[your-deployed-url]**
-
-**Deployment Platforms:**
-- Render: [https://render.com](https://render.com)
-- Railway: [https://railway.app](https://railway.app)
+🔗 **https://hng12-backend-s0-api.onrender.com**
 
 ---
 
