@@ -15,9 +15,9 @@ This API is built as part of the **HNG12 Backend Internship Stage 0 Task** and i
 **Response Format (200 OK):**
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "zouhairsahtout66@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/zuuhair11/Hng12_Backend_S0_API"
 }
 ```
 
@@ -26,7 +26,7 @@ This API is built as part of the **HNG12 Backend Internship Stage 0 Task** and i
 ## 🛠️ Setup Instructions
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/zuuhair11/Hng12_Backend_S0_API
 cd your-repo
 ```
 
